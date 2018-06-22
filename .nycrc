@@ -15,10 +15,10 @@
     "mail.js"
   ],
   "watermarks": {
-      "lines": [75, 90],
-      "functions": [75, 90],
-      "branches": [75, 90],
-      "statements": [75, 90]
+      "lines": [75, 75],
+      "functions": [75, 70],
+      "branches": [75, 50],
+      "statements": [75, 50]
     },
   "reporter": ["lcov", "json", "text"],
   "sourceMap": false,

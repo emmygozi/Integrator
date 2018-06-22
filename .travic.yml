@@ -5,6 +5,7 @@ node_js:
 
 env:
   global:
+    - CC_TEST_REPORTER_ID=f75215e9756d1393fe984c2c8a16bd1f14aeb5460e0ac153bdc69a0e228a9d28
 
 script:
   - npm run test
